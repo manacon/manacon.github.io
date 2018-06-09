@@ -2,7 +2,7 @@
 
 Andreas Lunde gir deg råd om digital kommunikasjon og leder utvikling av nettsider for deg.
 
-Publiseringssystemer, teknologier, rammeverk og kode. Design, skrifttyper, bilder og farger. Byrå, designer, front-end og back-end. Mye og å holde styr på. Jeg tar jobben.
+Publiseringssystemer, teknologier, rammeverk og kode. Design, skrifttyper, bilder og farger. Byrå, designer, front-end og back-end. Mye å holde styr på? Jeg tar jobben for deg.
 
 Andreas Lunde har erfaring som digital journalist i bl.a. TV 2, NTB og ABC Nyheter og som kommunikasjonsrådgiver i Oslo kommune.
 
@@ -21,6 +21,6 @@ dlL3VwbG9hZC9jX2Nyb3AsZHByX2F1dG8sZl9hdXRvLGhfNzUw
 LHFfYXV0byx3Xzc1MC9jX3NjYWxlLGZfYXV0byxoXzIwMCxxX2
 F1dG8sd18yMDAvdjE1Mjg1NzA4MDUvYW5kcmVhcyUyMGx1bmRl
 JTIwciVDMyVBNWQlMjBvZyUyMHZpbmsucG5nXG4iLCJoaXN0b3
-J5IjpbLTE2NDQ5MjY1ODQsLTk1NzQyMDk5MCwxODc0NjE1MjM0
-XX0=
+J5IjpbLTg3ODYyNzI5NiwtOTU3NDIwOTkwLDE4NzQ2MTUyMzRd
+fQ==
 -->
