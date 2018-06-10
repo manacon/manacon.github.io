@@ -12,7 +12,7 @@ Send en epost til hei@andreaslunde.no.
 
 Andreas Lunde har erfaring som digital journalist i bl.a. TV 2, NTB og ABC Nyheter og som kommunikasjonsrådgiver i Oslo kommune.
 
-Jeg deltar i møter over hele landet ved hjelp av video, og reiser om jeg må. Til daglig holer jeg til i Grenland/Porsgrunn/Skien.
+Til daglig holder jeg til i Porsgrunn/Skien/Grenland/Telemark.
 
 ---
 
@@ -27,6 +27,6 @@ dlL3VwbG9hZC9jX2Nyb3AsZHByX2F1dG8sZl9hdXRvLGhfNzUw
 LHFfYXV0byx3Xzc1MC9jX3NjYWxlLGZfYXV0byxoXzIwMCxxX2
 F1dG8sd18yMDAvdjE1Mjg1NzA4MDUvYW5kcmVhcyUyMGx1bmRl
 JTIwciVDMyVBNWQlMjBvZyUyMHZpbmsucG5nXG4iLCJoaXN0b3
-J5IjpbMTc0Nzk3MzAyMSwtMTQwMDQwMDU5MiwtOTMyODU0NjQ5
+J5IjpbLTM4NjczODMxMiwtMTQwMDQwMDU5MiwtOTMyODU0NjQ5
 LC05NTc0MjA5OTAsMTg3NDYxNTIzNF19
 -->
