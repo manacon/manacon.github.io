@@ -2,7 +2,11 @@
 
 Andreas Lunde gir deg råd om digital kommunikasjon og leder utvikling av nettsider for deg.
 
-Publiseringssystemer, teknologier, rammeverk og kode. Design, skrifttyper, bilder og farger. Byrå, designer, front-end og back-end. Mye å holde styr på? Ta kontakt.
+*Publiseringssystemer, rammeverk og kode.*
+**Design, skrifttyper, bilder og farger.**
+*Byrå, designer, front-end og back-end.* 
+
+Mye å holde styr på? Ta kontakt.
 
 Send en epost til hei@andreaslunde.no.
 
@@ -23,6 +27,6 @@ dlL3VwbG9hZC9jX2Nyb3AsZHByX2F1dG8sZl9hdXRvLGhfNzUw
 LHFfYXV0byx3Xzc1MC9jX3NjYWxlLGZfYXV0byxoXzIwMCxxX2
 F1dG8sd18yMDAvdjE1Mjg1NzA4MDUvYW5kcmVhcyUyMGx1bmRl
 JTIwciVDMyVBNWQlMjBvZyUyMHZpbmsucG5nXG4iLCJoaXN0b3
-J5IjpbLTE0MDA0MDA1OTIsLTkzMjg1NDY0OSwtOTU3NDIwOTkw
-LDE4NzQ2MTUyMzRdfQ==
+J5IjpbMTc0Nzk3MzAyMSwtMTQwMDQwMDU5MiwtOTMyODU0NjQ5
+LC05NTc0MjA5OTAsMTg3NDYxNTIzNF19
 -->
