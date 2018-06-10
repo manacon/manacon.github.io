@@ -2,9 +2,9 @@
 
 Andreas Lunde gir deg råd om digital kommunikasjon og leder utvikling av nettsider for deg.
 
-*Publiseringssystemer* **rammeverk** *kode*
-**Design** *skrifttyper* **bilder** *farger*.
-*Byrå, designer, front-end og back-end.* 
+*Publiseringssystem* **rammeverk** *kode*
+**hosting** *skrifttyper* **bilder** *farger*
+**byrå** *designer* **front-end** *back-end* 
 
 Mye å holde styr på? Ta kontakt.
 
@@ -27,6 +27,6 @@ dlL3VwbG9hZC9jX2Nyb3AsZHByX2F1dG8sZl9hdXRvLGhfNzUw
 LHFfYXV0byx3Xzc1MC9jX3NjYWxlLGZfYXV0byxoXzIwMCxxX2
 F1dG8sd18yMDAvdjE1Mjg1NzA4MDUvYW5kcmVhcyUyMGx1bmRl
 JTIwciVDMyVBNWQlMjBvZyUyMHZpbmsucG5nXG4iLCJoaXN0b3
-J5IjpbMTA0NzMwNDcxOCwtMTQwMDQwMDU5MiwtOTMyODU0NjQ5
+J5IjpbMTcwMTIwODU4MSwtMTQwMDQwMDU5MiwtOTMyODU0NjQ5
 LC05NTc0MjA5OTAsMTg3NDYxNTIzNF19
 -->
